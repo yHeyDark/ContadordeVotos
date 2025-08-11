@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votação de Filmes e Séries</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Sistema de Votação Mosten</h1>
+        <div class="contadores-gerais">
+            <span>Total de Votos Positivos: <strong id="total-positivos">0</strong></span>
+            <span>Total de Votos Negativos: <strong id="total-negativos">0</strong></span>
+        </div>
+        <nav>
+            <button id="btn-filmes" class="active">Filmes/Séries</button>
+            <button id="btn-cadastro">Cadastrar Novo</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="lista-filmes" class="conteudo-ativo">
+            <h2>Filmes e Séries em Votação</h2>
+            </section>
+
+        <section id="cadastro-filmes">
+            <h2>Cadastrar Novo Filme ou Série</h2>
+            <form id="form-cadastro">
+                <label for="titulo">Título:</label>
+                <input type="text" id="titulo" name="titulo" required>
+
+                <label for="genero">Gênero:</label>
+                <input type="text" id="genero" name="genero" required>
+                
+                <label for="descricao">Descrição:</label>
+                <textarea id="descricao" name="descricao" rows="4" required></textarea>
+
+                <label for="imagem">URL da Imagem:</label>
+                <input type="url" id="imagem" name="imagem" required>
+
+                <button type="submit">Cadastrar Item</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

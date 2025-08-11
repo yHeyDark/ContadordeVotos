@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titulo": "Matrix",
+    "genero": "Ficção Científica",
+    "descricao": "Um programador de computador descobre que a realidade é uma simulação controlada por máquinas inteligentes.",
+    "imagem": "https://br.web.img2.acsta.net/r_1920_1080/img/1b/42/1b427ba68cb9e9086246256c1db4f719.jpg",
+    "gostei": 150,
+    "naoGostei": 15
+  },
+  {
+    "id": 2,
+    "titulo": "Interestelar",
+    "genero": "Ficção Científica",
+    "descricao": "Uma equipe de exploradores viaja através de um buraco de minhoca no espaço na tentativa de garantir a sobrevivência da humanidade.",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/14/10/31/20/39/476171.jpg",
+    "gostei": 95,
+    "naoGostei": 8
+  },
+  {
+    "id": 3,
+    "titulo": "O Poderoso Chefão",
+    "genero": "Crime, Drama",
+    "descricao": "O envelhecido patriarca de uma dinastia do crime organizado transfere o controle de seu império clandestino para seu filho relutante.",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/93/20/20120876.jpg",
+    "gostei": 150,
+    "naoGostei": 5
+  },
+  {
+    "id": 4,
+    "titulo": "A Origem",
+    "genero": "Ficção Científica, Ação",
+    "descricao": "Um ladrão que rouba segredos corporativos através de tecnologia de sonho é contratado para uma tarefa aparentemente impossível: implantar uma ideia na mente de um CEO.",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/32/31/20028688.jpg",
+    "gostei": 110,
+    "naoGostei": 10
+  },
+  {
+    "id": 5,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "genero": "Fantasia, Aventura",
+    "descricao": "Um jovem hobbit, Frodo Bolseiro, herda um anel e embarca em uma perigosa missão para destruí-lo antes que o Senhor das Trevas, Sauron, o encontre.",
+    "imagem": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/32/20224832.jpg",
+    "gostei": 180,
+    "naoGostei": 3
+  },
+  {
+    "id": 6,
+    "titulo": "Vingadores: Ultimato",
+    "genero": " Ação, Aventura, Ficção Científica",
+    "descricao": "Em Vingadores: Ultimato, após Thanos eliminar metade das criaturas vivas em Vingadores: Guerra Infinita, os heróis precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, o Capitão América/Steve Rogers (Chris Evans) e a Viúva Negra/Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.",
+    "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/19/04/26/17/30/2428965.jpg",
+    "gostei": 5,
+    "naoGostei": 3
+  }
+]
