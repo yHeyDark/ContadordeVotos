@@ -94,4 +94,4 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/download/) instalado em s
     ```
 4.  Abra seu navegador e acesse `http://localhost:8080`.
 
-## 📦 Instruções de Entrega
+##
