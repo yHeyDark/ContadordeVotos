@@ -61,7 +61,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/download/) instalado em s
 1.  Clone este repositório para sua máquina local.
 
     ```bash
-    git clone [https://github.com/yHeyDark/ContadordeVotos]
+    git clone [https://github.com/yHeyDark/ContadordeVotos.git]
     ```
 
 2.  Navegue até a pasta do projeto e instale as dependências do back-end.
